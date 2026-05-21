@@ -1,0 +1,31 @@
+name,symbol,category,generation,electric_charge,spin,mass_MeV,antiparticle
+Up Quark,u,quark,1,+2/3,1/2,2.2,Anti-Up Quark
+Anti-Up Quark,ū,quark,1,-2/3,1/2,2.2,Up Quark
+Down Quark,d,quark,1,-1/3,1/2,4.7,Anti-Down Quark
+Anti-Down Quark,d̄,quark,1,+1/3,1/2,4.7,Down Quark
+Charm Quark,c,quark,2,+2/3,1/2,1270,Anti-Charm Quark
+Anti-Charm Quark,c̄,quark,2,-2/3,1/2,1270,Charm Quark
+Strange Quark,s,quark,2,-1/3,1/2,96,Anti-Strange Quark
+Anti-Strange Quark,s̄,quark,2,+1/3,1/2,96,Strange Quark
+Top Quark,t,quark,3,+2/3,1/2,172760,Anti-Top Quark
+Anti-Top Quark,t̄,quark,3,-2/3,1/2,172760,Top Quark
+Bottom Quark,b,quark,3,-1/3,1/2,4180,Anti-Bottom Quark
+Anti-Bottom Quark,b̄,quark,3,+1/3,1/2,4180,Bottom Quark
+Electron,e-,lepton,1,-1,1/2,0.511,Positron
+Positron,e+,lepton,1,+1,1/2,0.511,Electron
+Electron Neutrino,νe,lepton,1,0,1/2,<0.0000022,Electron Antineutrino
+Electron Antineutrino,ν̄e,lepton,1,0,1/2,<0.0000022,Electron Neutrino
+Muon,μ-,lepton,2,-1,1/2,105.66,Antimuon
+Antimuon,μ+,lepton,2,+1,1/2,105.66,Muon
+Muon Neutrino,νμ,lepton,2,0,1/2,<0.17,Muon Antineutrino
+Muon Antineutrino,ν̄μ,lepton,2,0,1/2,<0.17,Muon Neutrino
+Tau,τ-,lepton,3,-1,1/2,1776.86,Antitau
+Antitau,τ+,lepton,3,+1,1/2,1776.86,Tau
+Tau Neutrino,ντ,lepton,3,0,1/2,<18.2,Tau Antineutrino
+Tau Antineutrino,ν̄τ,lepton,3,0,1/2,<18.2,Tau Neutrino
+Photon,γ,gauge boson,-,0,1,0,Self
+Gluon,g,gauge boson,-,0,1,0,Self
+W Boson,W+,gauge boson,-,+1,1,80379,W− Boson
+W− Boson,W−,gauge boson,-,-1,1,80379,W Boson
+Z Boson,Z0,gauge boson,-,0,1,91187.6,Self
+Higgs Boson,H,higgs boson,-,0,0,125250,Self
